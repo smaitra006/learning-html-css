@@ -1,0 +1,23 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 750;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.description {
+  font-size: 14px;
+  color: gray;
+}
+
+.youtube-music {
+  width: 300px;
+  background-color: rgb(54, 43, 43);
+  padding: 12px;
+}

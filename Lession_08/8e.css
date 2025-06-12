@@ -1,0 +1,54 @@
+.request {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.schedule {
+  background-color: rgb(197, 234, 235);
+  color:  black;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+
+.pickup {
+  display: block;
+  border: none;
+  background-color: rgb(197, 234, 235);
+  color: gray;
+  margin-bottom: 5px;
+  width: 256px;
+  height: 36px;
+  margin-bottom: 6px;
+  padding-left: 15px;
+}
+
+.destination {
+  display: block;
+  border: none;
+  background-color: rgb(197, 234, 235);
+  color: gray;
+  margin-bottom: 5px;
+  width: 256px;
+  height: 36px;
+  margin-bottom: 25px;
+  padding-left: 15px;
+}
+
+p {
+  font-family: Arial;
+  display: block;
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}

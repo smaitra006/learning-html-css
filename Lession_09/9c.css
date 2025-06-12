@@ -1,0 +1,10 @@
+p {
+  margin-top: 0;
+}
+
+.service {
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  padding: 15px;
+}
