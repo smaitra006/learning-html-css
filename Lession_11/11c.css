@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 8px;
+  column-gap: 8px;
+}
+
+.item {
+  background-color: antiquewhite;
+}
